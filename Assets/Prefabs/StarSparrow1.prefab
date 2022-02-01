@@ -97,3 +97,7 @@ MonoBehaviour:
   controlSpeed: 10.05
   xrange: 10
   yrange: 3.5
+  positionPitchFactor: -2
+  controlPitchFactor: -15
+  positionYawFactor: 2
+  controlRollFactor: -20
