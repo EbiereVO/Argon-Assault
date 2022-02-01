@@ -640,10 +640,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1640318038}
     m_Modifications:
-    - target: {fileID: 5812684094400140433, guid: c1b11fc4aa1b4f246a1f3db9a0ebeae9, type: 3}
-      propertyPath: positionPitchFactor
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 6278145553602964308, guid: c1b11fc4aa1b4f246a1f3db9a0ebeae9, type: 3}
       propertyPath: m_RootOrder
       value: 2
